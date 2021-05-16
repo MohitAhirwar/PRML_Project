@@ -73,3 +73,11 @@ reading the csv file.The first 3 classifiers are showing the best results
 3. Linear SVC
 
 ![image](https://user-images.githubusercontent.com/66860602/118408705-51e84380-b6a4-11eb-92c1-b2dec3f2338d.png)
+
+# Accuracy Comparison :
+
+Below is the results of the accuracy results of all the three classifiers used above to predict the model.
+![image](https://user-images.githubusercontent.com/66860602/118408751-7fcd8800-b6a4-11eb-9055-739d9f9f098c.png)
+
+We see that Logistic Regression has performed better as compared to the other 2.Linear SVC and
+Multinomial had almost done equally better.
