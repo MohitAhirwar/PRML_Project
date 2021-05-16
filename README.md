@@ -1,4 +1,4 @@
-# PRML_Project
+# Twitter Sentiment Analysis
 ![image](https://user-images.githubusercontent.com/66860602/118408235-501d8080-b6a2-11eb-844a-ab9c9071eceb.png)
 
 Requirements :- There are some general library requirements for the project and some which are specific to
@@ -60,3 +60,16 @@ Using classifiers
 
 One has to simply open the colab file and keep on running all the codes.Give path for
 reading the csv file.The first 3 classifiers are showing the best results
+
+# Performance Measurements :
+1. Logistic Regression
+
+![image](https://user-images.githubusercontent.com/66860602/118408673-367d3880-b6a4-11eb-81e2-72cb05e79a24.png)
+
+2. Multinomial Naive Bayes
+
+![image](https://user-images.githubusercontent.com/66860602/118408684-439a2780-b6a4-11eb-8b2f-ab88c41af2b5.png)
+
+3. Linear SVC
+
+![image](https://user-images.githubusercontent.com/66860602/118408705-51e84380-b6a4-11eb-92c1-b2dec3f2338d.png)
