@@ -1,7 +1,8 @@
 # Twitter Sentiment Analysis
 ![image](https://user-images.githubusercontent.com/66860602/118408235-501d8080-b6a2-11eb-844a-ab9c9071eceb.png)
 
-Requirements :- There are some general library requirements for the project and some which are specific to
+# Requirements :- 
+There are some general library requirements for the project and some which are specific to
 individual methods. The general requirements are as follows.
 ● Numpy, Pandas
 ● scikit-learn
@@ -15,7 +16,7 @@ The library requirements specific to some methods are:
 ● Linear SVC
 ● .Random Forest
 
-STRUCTURE OF CODE
+# STRUCTURE OF CODE
 
 Importing Important Libraries
 1. pandas,numpy,nltk,re,future,matplotlib.pyplot
@@ -34,7 +35,7 @@ Reading CSV file
 a. Mounting from google drive
 b. Using pd.read_csv and encoding latin
 
-Preprocessing
+# Preprocessing
 
 14. Lowercasing the letter
 15. Removing Usernames
@@ -49,7 +50,7 @@ Preprocessing
 24. Showing Word clouds
 25. Used Count Vectorizer
 
-Using classifiers
+# Classifiers Used :
 
 26. Used Multinomial Naive Bayes
 27. Used Linear SVC
@@ -62,6 +63,7 @@ One has to simply open the colab file and keep on running all the codes.Give pat
 reading the csv file.The first 3 classifiers are showing the best results
 
 # Performance Measurements :
+
 1. Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/66860602/118408673-367d3880-b6a4-11eb-81e2-72cb05e79a24.png)
@@ -77,6 +79,7 @@ reading the csv file.The first 3 classifiers are showing the best results
 # Accuracy Comparison :
 
 Below is the results of the accuracy results of all the three classifiers used above to predict the model.
+
 ![image](https://user-images.githubusercontent.com/66860602/118408751-7fcd8800-b6a4-11eb-9055-739d9f9f098c.png)
 
 We see that Logistic Regression has performed better as compared to the other 2.Linear SVC and
