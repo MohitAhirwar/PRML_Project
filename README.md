@@ -5,58 +5,93 @@
 There are some general library requirements for the project and some which are specific to
 individual methods. The general requirements are as follows.
 ● Numpy, Pandas
+
 ● scikit-learn
+
 ● scipy
+
 ● nltk
+
 The library requirements specific to some methods are:
 ● Multinomial Naive Bayes
+
 ● SVM
+
 ● Logistic Regression
+
 ● xgboost for XGBoost
+
 ● Linear SVC
+
 ● .Random Forest
 
 # STRUCTURE OF CODE
 
 Importing Important Libraries
+
 ● pandas,numpy,nltk,re,future,matplotlib.pyplot
+
 ● train_test_split,GridSearchCV
+
 ● CountVectorizer, TfidfVectorizer
+
 ● TfidfTransformer
+
 ● BernoulliNB, MultinomialNB
+
 ● metrics,roc_auc_score
+
 ● accuracy_score,label_binarize,LogisticRegression
-● Pipeline,svm,LinearSVC,SVR,
+
+● Pipeline,svm,LinearSVC,SVR
+
 ● RandomForestClassifier,DecisionTreeClassifier
+
 ● BeautifulSoup,stopwords,SnowballStemmer
 
-Reading CSV file
+# Reading CSV file
 
-● Mounting from google drive
+● Mounting from google drive or any local path
 ● Using pd.read_csv and encoding latin
 
 # Preprocessing
 
 ● Lowercasing the letter
+
 ● Removing Usernames
+
 ● Removing URLs
+
 ● Removing all digits
+
 ● Removing Quotations
-● Replacing Emojis with their corresponding sentiment part eg : positive emoji or negative emojis.
+
+● Replacing Emojis with their corresponding sentiment part eg : positive emoji or negative emojis
+
 ● Replacing contractions
+
 ● Removing punctuations
+
 ● Replacing double spaces with single spaces
-● Showing Plotts
+
+● Showing Plots
+
 ● Showing Word clouds
+
 ● Used Count Vectorizer
 
 # Classifiers Used :
 
 ● Used Multinomial Naive Bayes
+
 ● Used Linear SVC
+
 ● Used Logistic Regression
+
 ● Used SVM
+
 ● Using Decision Trees
+
 ● Using Xgb
 
 One has to simply open the colab file and keep on running all the codes.Give path for
