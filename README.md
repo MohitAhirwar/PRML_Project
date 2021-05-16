@@ -47,10 +47,10 @@ Preprocessing
 22. Replacing double spaces with single spaces
 23. Showing Plotts
 24. Showing Word clouds
+25. Used Count Vectorizer
 
 Using classifiers
 
-25. Used Count Vectorizer
 26. Used Multinomial Naive Bayes
 27. Used Linear SVC
 28. Used Logistic Regression
