@@ -13,6 +13,7 @@ individual methods. The general requirements are as follows.
 ● nltk
 
 The library requirements specific to some methods are:
+
 ● Multinomial Naive Bayes
 
 ● SVM
