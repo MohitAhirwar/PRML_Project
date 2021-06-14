@@ -120,3 +120,5 @@ Below is the results of the accuracy results of all the three classifiers used a
 
 We see that Logistic Regression has performed better as compared to the other 2.Linear SVC and
 Multinomial had almost done equally better.
+
+https://camo.githubusercontent.com/d9e6cf8d49d8f75ccaf4d5ef237b0cf9afba767abba891cd9c6b601016e38d00/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a534b6c50756b34767363597333626c316246645435672e676966
